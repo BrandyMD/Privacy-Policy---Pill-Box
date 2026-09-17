@@ -81,4 +81,4 @@ We may update our Privacy Policy periodically. Any changes will be reflected by 
 
 If you have questions, feedback, or concerns regarding this Privacy Policy, please contact us at:
 
-* **Email:** [brandydisher@gmail.com]
+* **Email:** brandydisher@gmail.com
