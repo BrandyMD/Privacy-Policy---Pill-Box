@@ -2,7 +2,7 @@
 
 **Last Updated:** September 16, 2026
 
-This Privacy Policy describes how **Pill Box** ("the App", "we", "us", or "our"), developed by [Your Name/Entity], handles information when you use our mobile application.
+This Privacy Policy describes how **Pill Box** ("the App", "we", "us", or "our"), developed by Brandy Disher, handles information when you use our mobile application.
 
 ---
 
@@ -81,4 +81,4 @@ We may update our Privacy Policy periodically. Any changes will be reflected by 
 
 If you have questions, feedback, or concerns regarding this Privacy Policy, please contact us at:
 
-* **Email:** [Your Contact Email]
+* **Email:** [brandydisher@gmail.com]
